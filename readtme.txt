@@ -1,0 +1,26 @@
+
+1-D Fenwick tree where there are N player in a circle and every time kth is removed.cpp	 As title
+1-D Fenwick tree.cpp	As title
+3-D Fenwick Tree.cpp	As title
+BIGINT except Subtraction.cpp	Big Int efficient C++ Implementation
+EULERTOTIENT.cpp	Euler Totient function calculation
+MATRIXEXPONENTIATIONALL.cpp	Matrix exponentiation nxn matrix
+MATRIXEXPONENTIATIONALL3x3.cpp	Matrix exponentiation nxn matrix
+MINMAXHEAPWITHFASTIO.cpp	Inspired by some code as title
+RedBlackTrees.cpp	Inspired by codechef editorial Red Black tree fast implementation
+SQRTND.cpp	Sqrt N decomposition. store as N blocks
+Segmenttree.cpp	As title
+Topologicalsort.cpp	Topoligical sort impl
+bellman_ford.cpp	Bellman Ford impl
+bfs.cpp	Breath first search impl
+binary_search.cpp	Binary search impl
+connected_components.cpp	Print connected components in a graph
+dfs.cpp	Add code to repo	Depth first search impl
+djikstra.cpp	Dijkstras slow
+djikstra_mlogn.cpp	Dijikstras fast
+eulerfunction.cpp	Another impl euler function
+gcd.cppFind GCD impl
+nCrMODN upto 100001.cpp	NCR fast 
+prime.cpp	Prime sieving
+substring.cpp	trie 
+suffix.cpp	suffix array
